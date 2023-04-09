@@ -1,0 +1,11 @@
+__pycache__
+.idea
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+tmp/
+static/*.zip
+venv/*
+static/csv/data/*
+!static/csv/data/.keep
+static/dsv/*.dsv
